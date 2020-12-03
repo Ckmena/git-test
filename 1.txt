@@ -1,13 +1,3 @@
 this is a file 1 
-<<<<<<< HEAD
-
-this is only on new branch
-=======
-<<<<<<< HEAD
  this pan only branch tex 
  please do not delete 
-=======
-
-this is only on new branch
->>>>>>> master
->>>>>>> pan-branch
